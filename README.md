@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm programming assignment code for Coursera course: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+Algorithm programming assignment code and input files for Coursera course: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
